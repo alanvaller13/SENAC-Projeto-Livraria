@@ -1,0 +1,9 @@
+Partes Faltantes
+
+Faltou o MODEL de Emprestimo
+Faltou o CONTROLLER de EmprestimoDao
+Faltou parte do codigo de livroDao
+algumas algumas execução dos codigos.
+
+
+
